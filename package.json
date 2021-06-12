@@ -1,0 +1,19 @@
+{
+  "name": "socrates-bot",
+  "version": "1.0.0",
+  "description": "A Slack Bot that hosts a Trivia Game!",
+  "main": "app.js\u001b[D\u001b[D\u001b[C\u001b[C\u001b[Capp.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SDiamante13/socrates-bot.git"
+  },
+  "author": "Steven Diamante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SDiamante13/socrates-bot/issues"
+  },
+  "homepage": "https://github.com/SDiamante13/socrates-bot#readme"
+}
